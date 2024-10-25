@@ -14,7 +14,7 @@ A Python-based system for logging, categorizing, analyzing, and visualizing expe
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/debapratimbhattacharjee/expense-tracker.git
 Install dependencies:
 bash
 Copy code
